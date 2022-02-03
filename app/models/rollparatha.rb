@@ -1,0 +1,2 @@
+class Rollparatha < ApplicationRecord
+end

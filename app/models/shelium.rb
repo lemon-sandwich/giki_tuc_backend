@@ -1,0 +1,2 @@
+class Shelium < ApplicationRecord
+end
